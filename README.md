@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deviltriggeron
-- 👀 I’m interested in programs
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning  Python developments
 - 💞️ I’m looking to collaborate with a mentor who will teach programming
 - 📫 How to reach me twitter @zhanbrsv and email: zhan.brsv98@icloud.com
